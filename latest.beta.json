@@ -1,0 +1,10 @@
+{
+  "ver": "2.2.95",
+  "url": "https://github.com/BrutForge/ghostcast/releases/download/v2.2.95-beta/Ghostcast_2.2.95_beta_update.zip",
+  "sha256": "5074ba3f50ea9c29ec331e4b20bcc28f7ea63f2192ec73a068422d1ca532842e",
+  "min": "1.0.0",
+  "force": "1.0.0",
+  "notes": "Ghostcast 2.2.95 - linking fixed for good: Ghostcast could stay on Linking for ever (a wrong stretch guess made at the login screen was kept); it now never guesses while nothing of Ghostcast is on the game's screen and keeps a guess only when everything reads. It links about half a second after logging in, a /reload or a loading screen, about 1 second after it starts while you play, and at once after the game was minimized. No needless /reload. New start screen music. The addon updates itself once (one UI reload).",
+  "size": 10330590,
+  "sig": "42407055cb9c51aced15af0f5ebf8cac9689b660b072d83f6cfc66b0eccfd43dfb0e42dff570b8bf9c1d38b887ef5d2708d12ade131d821e62df7e92990b7742"
+}
