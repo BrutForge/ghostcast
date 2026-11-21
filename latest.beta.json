@@ -1,10 +1,10 @@
 {
-  "ver": "2.2.99",
-  "url": "https://github.com/BrutForge/ghostcast/releases/download/v2.2.99-beta/Ghostcast_2.2.99_beta_update.zip",
-  "sha256": "2e99692bbf4ee25bb3eb94f4648a762e24a80aafd25d8e3072f8d10fafe21867",
+  "ver": "2.4.0",
+  "url": "https://github.com/BrutForge/ghostcast/releases/download/v2.4.0-beta/Ghostcast_2.4.0_beta_update.zip",
+  "sha256": "e6d01822edce9a6cafe0878238134760fa9828a1a426ff8ecaacdb3b86bc7025",
   "min": "1.0.0",
   "force": "1.0.0",
-  "notes": "Uninstall: from the start screen, Windows Installed apps or the Ghostcast folder; plus 2.2.98: no more 'game refused one action' lines, faster start screen, Fury Warrior improvements",
-  "size": 10364583,
-  "sig": "f6032b1225040455ca471bdf1c5f57a524771f296f6650f26e8b3fbd1d0fb7f957ea7ede9031947b68f2257413ba7071254c2b1a04e993ff7f5c4e6ac89f0a7c"
+  "notes": "Ghostcast runs on a new, faster engine (about 16% faster in speed tests, less processor use during the rotation). Same rotations, menu and settings.",
+  "size": 10361181,
+  "sig": "baafdcc57c61f34915575c74eb78732c829590a5829ccc0c47752424dc65e5d2b947de91c6976dbad6d37989c5554453650656e357fe35100c9c65387768e5c5"
 }
