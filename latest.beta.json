@@ -1,10 +1,10 @@
 {
-  "ver": "2.4.0",
-  "url": "https://github.com/BrutForge/ghostcast/releases/download/v2.4.0-beta/Ghostcast_2.4.0_beta_update.zip",
-  "sha256": "e6d01822edce9a6cafe0878238134760fa9828a1a426ff8ecaacdb3b86bc7025",
+  "ver": "2.4.1",
+  "url": "https://github.com/BrutForge/ghostcast/releases/download/v2.4.1-beta/Ghostcast_2.4.1_beta_update.zip",
+  "sha256": "a7f37dba5cf087aa81b702672aaffcb30992cff1aaa11b2efb0606cb5297e37c",
   "min": "1.0.0",
   "force": "1.0.0",
-  "notes": "Ghostcast runs on a new, faster engine (about 16% faster in speed tests, less processor use during the rotation). Same rotations, menu and settings.",
-  "size": 10361181,
-  "sig": "baafdcc57c61f34915575c74eb78732c829590a5829ccc0c47752424dc65e5d2b947de91c6976dbad6d37989c5554453650656e357fe35100c9c65387768e5c5"
+  "notes": "The game addon now goes fully quiet the moment you close or uninstall Ghostcast, and no longer uses your number pad, F-keys or looting. Uninstall removes everything in one go, even with the game open. Faster, calmer start-up.",
+  "size": 10397025,
+  "sig": "0579c93896733276f4a47a78d6a475f525d0598efda689cf6501e7434a08265973d3fe1e4b9fd3e98d262719a98dd2b202915f377e4ca30c4cd48f502006c352"
 }
